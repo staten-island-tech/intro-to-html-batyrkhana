@@ -1,7 +1,13 @@
-body{
-    background-color: rgb(200, 216, 130)
-    font-size: 40px;
+body {
+    background-color: oldlace;
 }
-li{
-    font-size: medium;
+.head {
+    text-align: center;
+}
+.subheader{
+    text-align: center;
+}
+.about{
+    text-indent: 20px;
+    text-align: center;
 }
